@@ -1,0 +1,18 @@
+{
+  "name": "node-projeto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "aws-sdk": "^2.1691.0",
+    "axios": "^1.7.7",
+    "bootstrap": "^5.3.3",
+    "express": "^4.21.1"
+  }
+}
